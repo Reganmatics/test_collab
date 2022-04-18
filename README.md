@@ -1,6 +1,6 @@
 collaboration test...
 
->collaborators: 
+- collaborators: 
 	- _Joshua Regan_ @Reganmatics
 	- _John Obekpa_  @Jahhnee	
 
