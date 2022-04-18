@@ -8,3 +8,10 @@ collaboration test...
 - **git push origin** <branch-name> -> to push staged code and stuff to branch <branch-name>
 
 more stuff loading...
+
+main.h
+_printf.c
+_putchar.c
+base_funcs.c
+
+...
