@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+<<<<<<< HEAD
 #include <stdlib.h>
 #include <stdarg.h>
 
@@ -73,4 +74,8 @@ int print_address(va_list l, flags_t *f);
 /* print_percent */
 int print_percent(va_list l, flags_t *f);
 
+=======
+int _printf(const char *format, ...);
+
+>>>>>>> regan-branch
 #endif
